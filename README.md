@@ -1,5 +1,5 @@
 # R1-POO
-## 5 puntos de pdc basicos.
+## 5 puntos de pdc.
 ### 1. Operaciones basicas con entrada (1,2,"+")
 Este programa recibe una lista de tres elementos: dos números y un operador (+, -, *, /). Convierte los números a  un float y aplica la operación indicada.
 
